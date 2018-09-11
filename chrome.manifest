@@ -1,0 +1,3 @@
+content TabThumbNailOverlay		chrome/content/
+overlay chrome://browser/content/browser.xul chrome://TabThumbNailOverlay/content/browserOverlay.xul
+style chrome://browser/content/browser.xul chrome://TabThumbNailOverlay/content/TabThumbNailOverlay.css
